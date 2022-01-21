@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshirajput02" alt="sakshirajput02" /></a> </p>
 
 <img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **sakshisingh7166@gmail.com**
