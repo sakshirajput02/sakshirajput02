@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshirajput02&label=Profile%20views&color=0e75b6&style=flat" alt="sakshirajput02" /> </p>
 
-
-
-<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 - 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Java , C Programming and Fashion**
 
 - 📫 How to reach me **sakshisingh7166@gmail.com**
 
