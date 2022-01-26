@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm Actually not that tired Today!!!**
 <br>
-<h3 align="left">Connect with me: @LinkedIn</h3>
+<h3 align="left">Connect with me: @LinkedIn : https://www.linkedin.com/in/sakshi-singh-8329b91a2</h3>
 <br>
 <p align="left">
 </p>
