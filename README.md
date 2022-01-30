@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps.**
 
-- 💬 Ask me about **Java , C Programming and Fashion**
+- 💬 Ask me about **Java , C Programming and Fashion Trends.**
 
 - 📫 How to reach me **sakshisingh7166@gmail.com**
 
