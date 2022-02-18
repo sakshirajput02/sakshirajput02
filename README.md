@@ -1,4 +1,4 @@
-<h1 align="center">Hola Techies 👋, I'm Sakshi Singh. </h1>
+<h1 align="center">Hola Techies 👋, I'm Sakshi . </h1>
 <h3 align="center"><b>A Girl in the Technical World .</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshirajput02&label=Profile%20views&color=0e75b6&style=flat" alt="sakshirajput02" /> </p>
