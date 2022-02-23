@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshirajput02&label=Profile%20views&color=0e75b6&style=flat" alt="sakshirajput02" /> </p>
 
-- 🌱 I’m currently learning **DevOps Technologies.**
+- 🌱 I’m currently learning **DevOps Technologies and various tools Required in DevOps.**
 
-- 💬 Ask me about **Java , C Programming , Technology and Fashion Trends.**
+- 💬 Ask me about ** Java , C Programming , Technology and Fashion Trends.**
 
 - 📫 How to reach me **sakshisingh7166@gmail.com**
 
